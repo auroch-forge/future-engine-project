@@ -29,7 +29,8 @@ nav:
     - Part IV — Governance & Ethics: codex/governance-ethics.md
     - Part V — Annexes & Calibration: codex/annexes-calibration.md
   - Future History:
-    - 2026 (Vol. 1): future-history/2026/index.md
+    - 2026 (Vol. 1):
+      - Overview: future-history/2026/index.md
       - Preface: future-history/2026/preface.md
       - Excerpts: future-history/2026/excerpts.md
       - Essays (free): future-history/2026/essays.md
