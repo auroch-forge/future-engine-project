@@ -1,0 +1,63 @@
+site_name: The Future Engine Project
+site_description: A civic-scale forecasting project producing a yearly thousand-year Future History.
+site_url: https://example.org
+repo_url: https://github.com/AurochForge/future-engine-project
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Codex:
+    - Master Index: codex/index.md
+    - Part I — Core Architecture: codex/core-architecture.md
+    - Part II — Narrative & Public Philosophy: codex/narrative-public-philosophy.md
+    - Part III — Role of AI: codex/role-of-ai.md
+    - Part IV — Governance & Ethics: codex/governance-ethics.md
+    - Part V — Annexes & Calibration: codex/annexes-calibration.md
+  - Future History:
+    - 2026 (Vol. 1): future-history/2026/index.md
+      - Preface: future-history/2026/preface.md
+      - Excerpts: future-history/2026/excerpts.md
+      - Essays (free): future-history/2026/essays.md
+      - Errata & Updates: future-history/2026/errata.md
+  - Method:
+    - Model Zoo: method/model-zoo.md
+    - Multi-Scale Weave: method/multiscale-weave.md
+    - Continuation Rules: method/continuation-rules.md
+    - Data Assimilation: method/data-assimilation.md
+    - Evaluation & Calibration: method/evaluation.md
+  - Provenance:
+    - Source Registry: provenance/registry.md
+    - Licenses & Terms: provenance/licenses.md
+    - Update Log (Snapshots): provenance/snapshots.md
+  - Governance:
+    - Principles: governance/principles.md
+    - Decision Records (ADRs): governance/adrs.md
+    - Reciprocity Policy: governance/reciprocity.md
+  - Black Swans:
+    - Generator Spec: swans/spec.md
+    - Filters & Gates: swans/filters.md
+    - Archive: swans/archive.md
+  - Changelog: changelog.md
+  - Contribute:
+    - How to Propose Changes: contribute/how-to.md
+    - Style Guide: contribute/style.md
+    - Essay Invitations: contribute/essays.md
+  - Press & Brand:
+    - Boilerplate: press/boilerplate.md
+    - Logos & Usage: press/brand.md
+    - Contacts: press/contact.md
