@@ -2,6 +2,8 @@
 
 *A civic-scale forecasting project producing a yearly thousand-year **Future History**.*
 
+![logo](assets/future-engine-logo-indigo-256.png)
+
 **What this is**  
 A public, transparent effort to weave data, models, and civic storytelling into a single, continuous history of the future.
 
