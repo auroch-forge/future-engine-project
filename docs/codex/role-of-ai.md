@@ -1,52 +1,57 @@
-# Future Engine Codex  
-## Part III — Role of AI  
+# Future Engine Design Codex
 
-*Artificial Intelligence is not the star of the Future Engine. It is a servant of method, a craftsman at the edges, and a voice at the end.*
+## Part III — Role of AI
 
----
-
-### Principles  
-
-* **Transparency** — Every use of AI is disclosed and documented. Nothing is hidden.  
-* **Subordination** — AI does not define the methodology. It operates within boundaries set by statistical and futurological design.  
-* **Utility** — AI is used where it is uniquely suited: ingesting unstructured inputs, weaving cross-scale coherence, generating narrative prose.  
-* **Non-Centrality** — The credibility of the Future Engine rests on data, models, and ritual. AI is present but never sovereign.  
+*Artificial Intelligence plays a defined and transparent role within FUTURE ENGINE. It operates under methodological boundaries, contributing where it is structurally suited, but never determining the direction of the system.*
 
 ---
 
-### Roles of AI in the Engine  
+### Principles
 
-**Input Parsing**  
-* Natural language material — scientific literature, news, foresight reports — is structured through LLM-assisted extraction.  
-* Provenance and citations are preserved; AI is a tool of formatting, not judgment.  
-
-**Weaving & Constraint Checking**  
-* The scale of the Engine requires massive cross-lane consistency checks.  
-* AI assists in mapping dependencies, flagging contradictions, and ensuring plausibility across domains.  
-* It acts as an invisible craftsman: binding arcs together, not inventing them.  
-
-**Black Swan Generation**  
-* Black swans, by definition, resist quantification.  
-* LLMs are uniquely suited to propose improbable but describable events.  
-* These proposals are filtered through plausibility gates and historical analogies before entering the timeline.  
-
-**Narrative Output**  
-* The public artifact — the Future History — is written in prose.  
-* AI provides the narrative voice, rendering the statistical backbone into civic storytelling.  
-* This is the most visible use of AI, but also the most bounded: style, not substance.  
+* **Transparency** — All uses of AI are disclosed and documented. Nothing is hidden.
+* **Subordination** — AI does not define the methodology. It functions strictly within the framework set by statistical design and futurological intent.
+* **Utility** — AI is deployed where it has unique technical advantage: parsing unstructured inputs, supporting internal consistency, and producing narrative output.
+* **Non-Centrality** — FUTURE ENGINE derives its authority from data, models, and ritual structure. AI assists, but does not lead.
 
 ---
 
-### Public Perception  
+### Roles of AI in the Engine
 
-* To the lay audience, “AI-made” may be a stigma. To the informed audience, the methodology speaks louder.  
-* By documenting AI’s role clearly, the project avoids both exaggeration and concealment.  
-* Experts can judge the soundness of the approach; the public can trust in the openness of the process.  
+**Input Parsing**
+
+* Scientific literature, journalism, and foresight documents are structured through LLM-assisted extraction.
+* Provenance and citation are preserved; AI formats the material without asserting judgment.
+
+**Weaving & Constraint Checking**
+
+* Given FUTURE ENGINE’s scope, internal coherence across domains is essential.
+* AI helps map interdependencies, identify contradictions, and maintain cross-scale plausibility.
+* It supports the integration of outputs without altering the foundational logic.
+
+**Black Swan Generation**
+
+* Low-probability, high-impact events are difficult to model through standard techniques.
+* LLMs can propose hypothetical but structured scenarios.
+* These are subjected to plausibility filters and benchmarked against historical precedent before inclusion.
+
+**Narrative Output**
+
+* The Future History is composed in natural language.
+* AI renders statistical and causal structure into a civic narrative style.
+* This function is bounded: AI provides form, not substance.
 
 ---
 
-### Vow  
+### Public Perception
 
-The Future Engine does not pretend to be free of AI. It uses AI where necessary, discloses it always, and refuses to let it become the star.  
+* Some audiences may carry concern or skepticism regarding AI involvement.
+* By documenting the role of AI in detail, the project ensures clarity over spectacle.
+* The system's credibility rests not on novelty, but on methodological integrity and full disclosure.
 
-*The authority of the Future History rests on data, method, and continuity. AI is the pen, not the hand.*
+---
+
+### Structural Vow
+
+FUTURE ENGINE uses artificial intelligence where appropriate, documents its use rigorously, and maintains human oversight at all levels. AI is a tool in service of method — never its source, never its sovereign.
+
+*The Future History is shaped by evidence and design. AI contributes to its telling, not to its truth.*
