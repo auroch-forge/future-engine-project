@@ -30,7 +30,7 @@ markdown_extensions:
       permalink: true
 nav:
   - Home: index.md
-  - Codex:
+  - Design Codex:
     - Master Index: codex/index.md
     - Part I — Core Architecture: codex/core-architecture.md
     - Part II — Narrative & Public Philosophy: codex/narrative-public-philosophy.md
