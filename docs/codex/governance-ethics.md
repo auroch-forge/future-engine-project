@@ -40,7 +40,7 @@ Not all data streams are open. Some require payment, licensing, or support. This
 
 * Revenues from publication and sales help sustain the infrastructure.
 * Where possible, funds are reinvested in data providers.
-* Money is treated as part of the same continuity Future Engine aims to preserve.
+* Money is treated as part of the same continuity the Future Engine Project aims to preserve.
 
 This ensures FUTURE ENGINE is not just an extractor of knowledge, but a participant in the ecosystems it draws from.
 

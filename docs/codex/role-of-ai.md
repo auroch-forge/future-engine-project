@@ -1,4 +1,4 @@
-# Future Engine Design Codex
+# FUTURE ENGINE Design Codex
 
 ## Part III — Role of AI
 
