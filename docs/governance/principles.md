@@ -1,3 +1,3 @@
 # Governance Principles
 
-*See also: Codex Part IV — Governance & Ethics.*
+*See also: [Design Codex Part IV — Governance & Ethics](codex/governance-ethics.md).*

@@ -8,7 +8,7 @@
 
 ### Why a Narrative?
 
-The public artifact of Future Engine is not a dataset, nor a set of probabilistic charts. It is a story: a **Future History**. This choice is deliberate. Humans understand continuity through narrative. Civilizations transmit their memory by telling how one year followed another. To speak of the centuries to come, FUTURE ENGINE must do the same.
+The public artifact of FUTURE ENGINE is not a dataset, nor a set of probabilistic charts. It is a story: a **Future History**. This choice is deliberate. Humans understand continuity through narrative. Civilizations transmit their memory by telling how one year followed another. To speak of the centuries to come, FUTURE ENGINE must do the same.
 
 ---
 
