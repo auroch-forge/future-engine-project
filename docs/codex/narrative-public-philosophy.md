@@ -1,14 +1,14 @@
-# FUTURE_ENGINE Design Codex
+# <span class="notranslate"> FUTURE ENGINE </span> Design Codex
 
 ## Part II — Narrative & Public Philosophy
 
-*FUTURE_ENGINE does not speak as a prophet, but as a historian who looks forward instead of back. Its role is civic, its purpose shared.*
+*<span class="notranslate"> FUTURE ENGINE </span> does not speak as a prophet, but as a historian who looks forward instead of back. Its role is civic, its purpose shared.*
 
 ---
 
 ### Why a Narrative?
 
-The public artifact of FUTURE_ENGINE is not a dataset, nor a set of probabilistic charts. It is a story: a **Future History**. This choice is deliberate. Humans understand continuity through narrative. Civilizations transmit their memory by telling how one year followed another. To speak of the centuries to come, FUTURE_ENGINE must do the same.
+The public artifact of <span class="notranslate"> FUTURE ENGINE </span> is not a dataset, nor a set of probabilistic charts. It is a story: a **Future History**. This choice is deliberate. Humans understand continuity through narrative. Civilizations transmit their memory by telling how one year followed another. To speak of the centuries to come, <span class="notranslate"> FUTURE ENGINE </span> must do the same.
 
 ---
 
@@ -25,7 +25,7 @@ The *Future History* is written in the voice of a venerable elder, speaking warm
 
 ### One Timeline
 
-FUTURE_ENGINE never offers a branching tree of possibilities. Internally, uncertainty is tracked. But the generative act produces one coherent history only. The **public form** is always a single, unbroken history.
+<span class="notranslate"> FUTURE ENGINE </span> never offers a branching tree of possibilities. Internally, uncertainty is tracked. But the generative act produces one coherent history only. The **public form** is always a single, unbroken history.
 
 *This prevents paralysis by possibility. It allows the artifact to be read as history, not prophecy. The methodology remains visible, but the narrative is continuous.*
 
@@ -50,7 +50,7 @@ The essays are not garnish. They are essential. They:
 
 * Provide plural perspectives and challenge the timeline.
 * Allow communities and disciplines implicated in the forecasts to speak in their own voice.
-* Prevent FUTURE_ENGINE from being mistaken as a singular oracle.
+* Prevent <span class="notranslate"> FUTURE ENGINE </span> from being mistaken as a singular oracle.
 * Frame the Future History as dialogue, not decree.
 
 ---

@@ -1,4 +1,4 @@
-# The <span class="notranslate">Future Engine Project</span> — Public Wiki
+# The <span class="notranslate"> Future Engine Project </span> — Public Wiki
 
 This repo powers the public wiki at GitHub Pages using **MkDocs Material**.
 

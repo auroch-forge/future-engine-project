@@ -1,4 +1,4 @@
-# FUTURE_ENGINE Design Codex
+# <span class="notranslate"> FUTURE ENGINE </span> Design Codex
 
 ## Part I — Core Architecture
 
@@ -12,7 +12,7 @@
 * **Annual Rhythm** — The engine breathes once per year. Data flows in constantly, but a new *Future History* is only generated at the close of the yearly cycle.
 * **One Timeline** — The public artifact is not a branching fan of probabilities, but a single coherent history. Uncertainty is tracked internally, but the story itself is unbroken.
 * **Narrative Voice** — The output is written as a history of the future, in the tone of a venerable elder speaking to the young — intimate, civic, continuous.
-* **Integration, not competition** — Specialized projects and datasets are tributaries; FUTURE_ENGINE is the river.
+* **Integration, not competition** — Specialized projects and datasets are tributaries; <span class="notranslate"> FUTURE ENGINE </span> is the river.
 * **Non-Intervention** — The timeline is never hand-tuned for outcome. Methodology is sovereign. Adjustment happens only in the engine design, never in the generative act itself.
 * **Fixed Horizon** — Each edition spans one thousand years beyond publication. This horizon is immutable, anchoring every volume in the same vast arc.
 
