@@ -10,7 +10,7 @@
 
 - v2026.0002 — Publication online.
   * First successful GitHub Actions + Pages deployment.
-  * Domain connected and live (FutureEngineProject site accessible).
+  * Domain connected and live (<span class="notranslate">Future Engine Project</span> site accessible).
   * Verified workflow for edits and updates.
 
 - v2026.0003 — Refinements & corrections.

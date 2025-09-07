@@ -2,7 +2,7 @@
 
 ## Part IV — Governance & Ethics
 
-*FUTURE_ENGINE must not only forecast responsibly — the FutureEngineProject must govern itself responsibly. Without trust, there is no Future History.*
+*FUTURE_ENGINE must not only forecast responsibly — the <span class="notranslate">Future Engine Project</span> must govern itself responsibly. Without trust, there is no Future History.*
 
 ---
 
@@ -40,7 +40,7 @@ Not all data streams are open. Some require payment, licensing, or support. This
 
 * Revenues from publication and sales help sustain the infrastructure.
 * Where possible, funds are reinvested in data providers.
-* Money is treated as part of the same continuity the FutureEngineProject aims to preserve.
+* Money is treated as part of the same continuity the <span class="notranslate">Future Engine Project</span> aims to preserve.
 
 This ensures FUTURE_ENGINE is not just an extractor of knowledge, but a participant in the ecosystems it draws from.
 
@@ -48,7 +48,7 @@ This ensures FUTURE_ENGINE is not just an extractor of knowledge, but a particip
 
 ### Authority & Humility
 
-The FutureEngineProject aspires to civic weight, but never to monopoly on truth. Safeguards ensure:
+The <span class="notranslate">Future Engine Project</span> aspires to civic weight, but never to monopoly on truth. Safeguards ensure:
 
 * Alternative voices are invited (via reflective essays).
 * Outputs are debated publicly, not enforced.
@@ -58,7 +58,7 @@ The FutureEngineProject aspires to civic weight, but never to monopoly on truth.
 
 ### Independence
 
-The FutureEngineProject must never become reactive.
+The <span class="notranslate">Future Engine Project</span> must never become reactive.
 
 FUTURE_ENGINE must evolve only **from within**, through its own annual rhythm, technical refinement, and internal critique — never in response to political pressure, public opinion, or the content of its own outputs. No timeline outcome should trigger a correction. No controversy should bend its spine.
 
@@ -81,7 +81,7 @@ Its ethics rest on four enduring commitments:
 
 ### Disclaimer
 
-The FutureEngineProject does not accept responsibility for how FUTURE_ENGINE's outputs are interpreted, distorted, or weaponized. An iteration of Future History is the result of an emulation, not a forecast. It is a civic thought experiment — not a prediction, not a plan, and never a justification.
+The <span class="notranslate">Future Engine Project</span> does not accept responsibility for how FUTURE_ENGINE's outputs are interpreted, distorted, or weaponized. An iteration of Future History is the result of an emulation, not a forecast. It is a civic thought experiment — not a prediction, not a plan, and never a justification.
 
 It is built for reflection, not instruction. To take it as prophecy is to misunderstand its nature. Its value lies not in certainty, but in the dialogue it provokes.
 
