@@ -1,8 +1,8 @@
-# FUTURE ENGINE Design Codex
+# FUTURE_ENGINE Design Codex
 
 ## Master Index
 
-*The Codex is the living record of the evolution of FUTURE ENGINE. It is divided into five parts, each self-contained, but together they form the complete design.*
+*The Codex is the living record of the evolution of FUTURE_ENGINE. It is divided into five parts, each self-contained, but together they form the complete design.*
 
 ---
 
@@ -41,5 +41,5 @@ The scaffolding and accountability: provenance, evaluation, pilot cycles, black 
 
 ---
 
-**Together these five parts form the Design Codex — the bible of FUTURE ENGINE.**
+**Together these five parts form the Design Codex — the bible of FUTURE_ENGINE.**
 *They are not static. Each year, like the Engine itself, they may grow, layer upon layer, recording continuity as faithfully as the timeline they generate.*

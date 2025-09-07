@@ -1,14 +1,14 @@
-# FUTURE ENGINE Design Codex
+# FUTURE_ENGINE Design Codex
 
 ## Part V — Annexes & Calibration
 
-*The annex is where the scaffolding is exposed: provenance, calibration, and the technical record that keeps FUTURE ENGINE accountable.*
+*The annex is where the scaffolding is exposed: provenance, calibration, and the technical record that keeps FUTURE_ENGINE accountable.*
 
 ---
 
 ### Provenance & Sources
 
-Every datum in FUTURE ENGINE is archived with:
+Every datum in FUTURE_ENGINE is archived with:
 
 * Source and author
 * Timestamp of retrieval
@@ -22,7 +22,7 @@ This archive grows with each cycle, forming a transparent lineage of inputs.
 
 ### Evaluation & Calibration
 
-FUTURE ENGINE is judged continuously against the past.
+FUTURE_ENGINE is judged continuously against the past.
 
 * **Rolling Backtests** — Past data are forecast forward, then compared to reality.
 * **Cross-Validation** — Multiple folds and temporal splits to test robustness.
@@ -35,7 +35,7 @@ FUTURE ENGINE is judged continuously against the past.
 
 ### Pilot Phase — Blank Years
 
-Before its first public release, FUTURE ENGINE runs two accelerated “blank year” cycles:
+Before its first public release, FUTURE_ENGINE runs two accelerated “blank year” cycles:
 
 * Each compressed into six months, made possible by omitting Part II (the invited essays) from the publication cycle. Only Part I (the narrative timeline) and Part III (the technical annex) are generated.
 * Full thousand-year horizon tested.
@@ -58,7 +58,7 @@ A dedicated module ensures futures are not sterile:
 
 ### Technical Stack
 
-* **Hardware** — FUTURE ENGINE is designed with a local-first architecture in mind. It runs on non-proprietary hardware, such as GPU-enabled local clusters or open infrastructure, ensuring long-term control, transparency, and auditability. Cloud-based deployment remains possible, but is not foundational. With GPU acceleration. No proprietary hardware is required. Deployments can scale horizontally to accommodate data volume and model complexity.
+* **Hardware** — FUTURE_ENGINE is designed with a local-first architecture in mind. It runs on non-proprietary hardware, such as GPU-enabled local clusters or open infrastructure, ensuring long-term control, transparency, and auditability. Cloud-based deployment remains possible, but is not foundational. With GPU acceleration. No proprietary hardware is required. Deployments can scale horizontally to accommodate data volume and model complexity.
 * **Storage** — Columnar store (parquet), graph database for TKG, tile-indexed arrays for grids.
 * **Pipelines** — Containerized, reproducible DAGs.
 * **Modeling** — Probabilistic programming (Stan, Pyro), TS frameworks, ONNX export.
@@ -69,7 +69,7 @@ A dedicated module ensures futures are not sterile:
 
 ### Continuity & Canon
 
-* The output of FUTURE ENGINE is not probabilistic forecasting but stepwise emulation. As such, the concept of increasing uncertainty over time is not structurally applicable. The narrative remains continuous and methodologically coherent across the full thousand-year span.
+* The output of FUTURE_ENGINE is not probabilistic forecasting but stepwise emulation. As such, the concept of increasing uncertainty over time is not structurally applicable. The narrative remains continuous and methodologically coherent across the full thousand-year span.
 
 * While black swans are introduced narratively, their consequences are explicitly modeled. Their disruption affects downstream indicators, altering causal pathways and interacting mathematically with the system's internal structure. Their role is not decorative, but systemic.
 
@@ -77,4 +77,4 @@ A dedicated module ensures futures are not sterile:
 
 ---
 
-**The annex is not garnish: it is the proof of integrity. Without calibration and provenance, FUTURE ENGINE would be an oracle. With them, it is a civic record.**
+**The annex is not garnish: it is the proof of integrity. Without calibration and provenance, FUTURE_ENGINE would be an oracle. With them, it is a civic record.**
