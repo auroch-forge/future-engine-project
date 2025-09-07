@@ -75,6 +75,5 @@ nav:
     - Contacts: press/contact.md
 plugins:
   - search
-  - glightbox
 
 
