@@ -13,7 +13,7 @@ Each entry includes:
 
 All data are archived with full provenance. Sources are never edited after the snapshot. If upstream errors are discovered, they are handled in the following year’s cycle — never retroactively.
 
-This page is the backbone of the <span class="notranslate"> FUTURE ENGINE </span>'s transparency.
+This page is the backbone of the FUTURE ENGINE's transparency.
 
 ---
 

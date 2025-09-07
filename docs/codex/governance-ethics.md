@@ -1,8 +1,8 @@
-# <span class="notranslate"> FUTURE ENGINE </span> Design Codex
+# FUTURE ENGINE Design Codex
 
 ## Part IV — Governance & Ethics
 
-*<span class="notranslate"> FUTURE ENGINE </span> must not only forecast responsibly — the <span class="notranslate"> Future Engine Project </span> must govern itself responsibly. Without trust, there is no Future History.*
+*FUTURE ENGINE must not only forecast responsibly — the Future Engine Project must govern itself responsibly. Without trust, there is no Future History.*
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Reflexivity Principle**
 
-* <span class="notranslate"> FUTURE ENGINE </span> does not attempt to suppress feedback effects.
+* FUTURE ENGINE does not attempt to suppress feedback effects.
 * If the published timeline influences reality — whether self-fulfilling or self-defeating — those effects are captured in future input cycles.
 
 ---
@@ -40,15 +40,15 @@ Not all data streams are open. Some require payment, licensing, or support. This
 
 * Revenues from publication and sales help sustain the infrastructure.
 * Where possible, funds are reinvested in data providers.
-* Money is treated as part of the same continuity the <span class="notranslate"> Future Engine Project </span> aims to preserve.
+* Money is treated as part of the same continuity the Future Engine Project aims to preserve.
 
-This ensures <span class="notranslate"> FUTURE ENGINE </span> is not just an extractor of knowledge, but a participant in the ecosystems it draws from.
+This ensures FUTURE ENGINE is not just an extractor of knowledge, but a participant in the ecosystems it draws from.
 
 ---
 
 ### Authority & Humility
 
-The <span class="notranslate"> Future Engine Project </span> aspires to civic weight, but never to monopoly on truth. Safeguards ensure:
+The Future Engine Project aspires to civic weight, but never to monopoly on truth. Safeguards ensure:
 
 * Alternative voices are invited (via reflective essays).
 * Outputs are debated publicly, not enforced.
@@ -58,9 +58,9 @@ The <span class="notranslate"> Future Engine Project </span> aspires to civic we
 
 ### Independence
 
-The <span class="notranslate"> Future Engine Project </span> must never become reactive.
+The Future Engine Project must never become reactive.
 
-<span class="notranslate"> FUTURE ENGINE </span> must evolve only **from within**, through its own annual rhythm, technical refinement, and internal critique — never in response to political pressure, public opinion, or the content of its own outputs. No timeline outcome should trigger a correction. No controversy should bend its spine.
+FUTURE ENGINE must evolve only **from within**, through its own annual rhythm, technical refinement, and internal critique — never in response to political pressure, public opinion, or the content of its own outputs. No timeline outcome should trigger a correction. No controversy should bend its spine.
 
 It is not a performer. It does not adjust based on applause or protest. Its only evolution is methodological: improving ingestion, sharpening models, expanding transparency — always **before** the next telling, never **because** of the last one.
 
@@ -68,7 +68,7 @@ It is not a performer. It does not adjust based on applause or protest. Its only
 
 ### Ethical Compass
 
-<span class="notranslate"> FUTURE ENGINE </span> is not a prophecy machine or a political tool. It is a civic mirror, tilted toward the future.
+FUTURE ENGINE is not a prophecy machine or a political tool. It is a civic mirror, tilted toward the future.
 
 Its ethics rest on four enduring commitments:
 
@@ -81,10 +81,10 @@ Its ethics rest on four enduring commitments:
 
 ### Disclaimer
 
-The <span class="notranslate"> Future Engine Project </span> does not accept responsibility for how <span class="notranslate"> FUTURE ENGINE </span>'s outputs are interpreted, distorted, or weaponized. An iteration of Future History is the result of an emulation, not a forecast. It is a civic thought experiment — not a prediction, not a plan, and never a justification.
+The Future Engine Project does not accept responsibility for how FUTURE ENGINE's outputs are interpreted, distorted, or weaponized. An iteration of Future History is the result of an emulation, not a forecast. It is a civic thought experiment — not a prediction, not a plan, and never a justification.
 
 It is built for reflection, not instruction. To take it as prophecy is to misunderstand its nature. Its value lies not in certainty, but in the dialogue it provokes.
 
 ---
 
-**Governance is the spine of legitimacy. Without it, <span class="notranslate"> FUTURE ENGINE </span> would be software. With it, it can become a civic institution.**
+**Governance is the spine of legitimacy. Without it, FUTURE ENGINE would be software. With it, it can become a civic institution.**

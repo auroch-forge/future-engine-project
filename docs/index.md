@@ -1,4 +1,4 @@
-# The <span class="notranslate"> Future Engine Project </span>
+# The Future Engine Project
 
 *A civic-scale forecasting project producing a yearly thousand-year **Future History**.*
 

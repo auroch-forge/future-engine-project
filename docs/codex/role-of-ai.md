@@ -1,8 +1,8 @@
-# <span class="notranslate"> FUTURE ENGINE </span> Design Codex
+# FUTURE ENGINE Design Codex
 
 ## Part III — Role of AI
 
-*Artificial Intelligence plays a defined and transparent role within <span class="notranslate"> FUTURE ENGINE </span>. It operates under methodological boundaries, contributing where it is structurally suited, but never determining the direction of the system.*
+*Artificial Intelligence plays a defined and transparent role within FUTURE ENGINE. It operates under methodological boundaries, contributing where it is structurally suited, but never determining the direction of the system.*
 
 ---
 
@@ -11,7 +11,7 @@
 * **Transparency** — All uses of AI are disclosed and documented. Nothing is hidden.
 * **Subordination** — AI does not define the methodology. It functions strictly within the framework set by statistical design and futurological intent.
 * **Utility** — AI is deployed where it has unique technical advantage: parsing unstructured inputs, supporting internal consistency, and producing narrative output.
-* **Non-Centrality** — <span class="notranslate"> FUTURE ENGINE </span> derives its authority from data, models, and ritual structure. AI assists, but does not lead.
+* **Non-Centrality** — FUTURE ENGINE derives its authority from data, models, and ritual structure. AI assists, but does not lead.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Weaving & Constraint Checking**
 
-* Given <span class="notranslate"> FUTURE ENGINE </span>’s scope, internal coherence across domains is essential.
+* Given FUTURE ENGINE’s scope, internal coherence across domains is essential.
 * AI helps map interdependencies, identify contradictions, and maintain cross-scale plausibility.
 * It supports the integration of outputs without altering the foundational logic.
 
@@ -52,6 +52,6 @@
 
 ### Structural Vow
 
-<span class="notranslate"> FUTURE ENGINE </span> uses artificial intelligence where appropriate, documents its use rigorously, and maintains human oversight at all levels. AI is a tool in service of method — never its source, never its sovereign.
+FUTURE ENGINE uses artificial intelligence where appropriate, documents its use rigorously, and maintains human oversight at all levels. AI is a tool in service of method — never its source, never its sovereign.
 
 *The Future History is shaped by evidence and design. AI contributes to its telling, not to its truth.*
