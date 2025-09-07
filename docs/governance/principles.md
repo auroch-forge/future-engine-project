@@ -2,7 +2,7 @@
 
 ## Future Path
 
-The Future_Engine_Project will evolve toward a democratic and decentralized form of governance.
+The FutureEngineProject will evolve toward a democratic and decentralized form of governance.
 
 This is not decorative. Given the scale of the project — in both effort and consequence — shared stewardship is essential to its legitimacy.
 

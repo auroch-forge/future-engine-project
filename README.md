@@ -1,4 +1,4 @@
-# The Future_Engine_Project — Public Wiki
+# The FutureEngineProject — Public Wiki
 
 This repo powers the public wiki at GitHub Pages using **MkDocs Material**.
 

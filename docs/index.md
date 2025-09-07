@@ -1,4 +1,4 @@
-# The Future_Engine_Project
+# The FutureEngineProject
 
 *A civic-scale forecasting project producing a yearly thousand-year **Future History**.*
 
