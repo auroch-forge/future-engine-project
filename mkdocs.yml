@@ -4,7 +4,7 @@ site_url: https://example.org
 repo_url: https://github.com/AurochForge/future-engine-project
 theme:
   name: material
-  custom_dir: partials
+  custom_dir: docs/overrides
   logo: assets/future-engine-logo.svg
   features:
     - navigation.tabs
